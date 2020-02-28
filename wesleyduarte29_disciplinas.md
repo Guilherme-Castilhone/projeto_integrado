@@ -1,4 +1,4 @@
-Engenharia de Software = objetivo será a elaboracão do software para solucionar os problemas encontrados pela (visão cliente), e fazer a declaracao do escopo do projeto.
+Engenharia de Software = objetivo será a elaboracão do software para solucionar os problemas encontrados pela (visão cliente), e fazer a declaração do escopo do projeto.
 
 Devops = auxiliará na criação/elaboração do projeto atráves da plataforma fazendo o desenvolvimento do software.
 
